@@ -1,3 +1,3 @@
 # Angular CRUD
  
-Projeto de CRUD utilizando o Angular 9 - Cod3r Cursos
+Projeto de CRUD utilizando o Angular - Cod3r Cursos
