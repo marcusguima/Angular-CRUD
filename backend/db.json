@@ -1,0 +1,21 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Caneta BIC Azul",
+        "price": 2.89
+        },
+
+        {
+        "id": 2,
+        "name": "Macbook Air M1",
+        "price": 5699.99
+        },
+        
+        {
+        "id": 3,
+        "name": "Samsung Galaxy S22",
+        "price": 3099.90
+        }
+
+    ]
+}
